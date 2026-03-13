@@ -40,3 +40,10 @@ JWT_SECRET=your_secret_key
 ### 4. Run the server
 
 npm start
+
+## Tech Stack
+
+- Node.js
+- Express.js
+- MongoDB
+- JWT Authentication
