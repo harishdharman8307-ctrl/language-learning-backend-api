@@ -16,9 +16,5 @@ content for LinkedIn, X (Twitter), and blogs automatically.
 - AI APIs
 - Automation workflows
 
-## Use Case
-This system helps automate digital content creation, enabling faster and scalable 
-content production without manual effort.
-
 ## Author
 Harish
