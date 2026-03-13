@@ -1,20 +1,24 @@
-# AI Content Creator Agent
+# Language Learning Backend API
 
 ## Overview
-This project is an AI-powered automated content creator agent built using n8n. 
-It identifies trending topics, performs research, and generates platform-specific 
-content for LinkedIn, X (Twitter), and blogs automatically.
+This project is a Node.js backend API designed for a gamified language learning platform. 
+The system manages users, lessons, conversations, achievements, leaderboards, and learning progress. 
+It provides secure authentication and structured APIs to support an interactive language learning experience.
 
 ## Features
-- Automated trending topic discovery
-- AI-based research and summarization
-- Content generation for multiple platforms
-- Organized outputs for publishing
+- User authentication and authorization
+- Lesson and learning progress tracking
+- Gamification with achievements and leaderboards
+- Conversation and practice modules
+- Daily challenges for learners
+- Difficult word tracking
+- RESTful API architecture
 
-## Technologies Used
-- n8n
-- AI APIs
-- Automation workflows
+## Tech Stack
+- Node.js
+- Express.js
+- MongoDB
+- JWT Authentication
+- Mongoose
 
-## Author
-Harish
+## Project Structure
